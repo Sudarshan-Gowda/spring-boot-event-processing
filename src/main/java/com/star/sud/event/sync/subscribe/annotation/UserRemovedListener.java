@@ -1,4 +1,4 @@
-package com.star.sud.event.sync.bean.subscribe.annotation;
+package com.star.sud.event.sync.subscribe.annotation;
 
 import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Component;

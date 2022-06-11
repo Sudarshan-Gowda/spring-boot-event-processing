@@ -1,4 +1,4 @@
-package com.star.sud.event.sync.bean.publish;
+package com.star.sud.event.sync.publish;
 
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Component;

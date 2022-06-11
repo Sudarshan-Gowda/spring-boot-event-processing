@@ -1,4 +1,4 @@
-package com.star.sud.event.sync.bean.subscribe.annotation;
+package com.star.sud.event.sync.subscribe.annotation;
 
 // Empty class to showcase spring creates an event for non-void returned events
 public class ReturnedEvent {

@@ -1,4 +1,4 @@
-package com.star.sud.event.sync.bean.subscribe.applicationlistener;
+package com.star.sud.event.sync.subscribe.applicationlistener;
 
 import org.springframework.context.ApplicationListener;
 import org.springframework.stereotype.Component;
